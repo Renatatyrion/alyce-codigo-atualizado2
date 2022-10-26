@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+    <head>
+        <meta chaerset="utf-8">
+        <title>Dashboard Profile</title>
+        <link rel="stylesheet" href="style.css">
+
+    </head>
+    <body>
+    
+        <div class="top-bar"></div>
+        <div class="site-bg"></div>
+        <nav>
+            <button type="button"> <img src="profile.png" height ="30" width="40" /></button>
+            <button type="button"> <img src="trophy.png" height ="30" width="40" /></button>
+            <button type="button"> <img src="chart.png" height ="30" width="40" /></button>
+            <button type="button"> <img src="chat.png" height ="30" width="40" /></button>
+            <button type="button"> <img src="posts.png" height ="30" width="40" /></button>
+            <button type="button"> <img src="Settings.png" height ="30" width="40" /></button>
+            <button type="button"> <img src="home.png" height ="30" width="40" /></button>
+        </nav>
+
+        <div class="rectangle-50"></div>
+        <div class="rectangle-56"><img src="foto.png"></div>
+              <div class="rectangle-39"></div>
+              <div class="rectangle-54"></div>
+              <div class="rectangle-57"></div>
+              <div class="perfil-nome valign-text-middle">Fulano Ciclano</div>
+              <div class="edit-prof valign-text-middle">Editar Perfil</div>
+              <div class="rectangle-55"><img src="level.png"/></div>
+              <div class="recente valign-text-middle roboto-medium-black-36px">Recente</div>
+              <div class="destaques valign-text-middle roboto-medium-back-36px">Destaques</div>
+              <h1 class="nvel-2 valign-text-middle roboto-medium-black-36px">Nível 2</h1>
+              <div class="lema-1 valign-text-middle">Lema</div>
+              <div class="ideias-no-so-criad valign-text-middle roboto-normal-back-18px">Ideias não são criadas, elas são roubadas</div>
+              <div class="fulano-ciclano valign-text-middle roboto-medium-black-18px">- Fulano Ciclano </div>
+
+
+    </body>
+</html>    
